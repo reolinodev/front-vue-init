@@ -1,9 +1,22 @@
-## Explanation
-I have implemented only minimal functions to use as a basic source.
-- Get List Data
-- Get Detail Data 
-- Add comment
-- Delete comment
+## Technology stack
+
+- Vue.js 2.6.10
+- Vue Router
+- Vuex
+- Axios
+- Vuex-persistedstat
+- Etc
+  - [BootstrapVue](https://bootstrap-vue.org/)
+
+
+## Development environment
+
+- [Chrome](https://www.google.com/intl/ko/chrome/)
+- [Git](https://git-scm.com/downloads)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Node.js LTS 버전(v10.x 이상)](https://nodejs.org/ko/)
+- [Vue.js Dev Tools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+
 
 I used vue 2 and set up eslint and prettier.
 Also Made on a mobile screen basis.
