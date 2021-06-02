@@ -24,18 +24,3 @@ Also Made on a mobile screen basis.
 <pre><code>npm install --save</code></pre>
 3. After installation is complete, run the server.
 <pre><code>npm run serve</code></pre>
-
-# Issue
-1. Setting up eslint and prettier is not easy. For vscode, add the following syntax to setting.json
-<pre><code>
- "eslint.validate": [
-   "vue", "javascript", "javascriptreact", "typescript", "typescriptreact"
-  ],
-  "eslint.workingDirectories": [
-    {"mode": "auto"}
-  ],
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
-  },
-  "editor.formatOnSave": false
-  </code></pre>
