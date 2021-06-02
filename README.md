@@ -5,18 +5,15 @@
 - Vuex
 - Axios
 - Vuex-persistedstat
-- Etc
-  - [BootstrapVue](https://bootstrap-vue.org/)
-
 
 ## Development environment
 
 - [Chrome](https://www.google.com/intl/ko/chrome/)
 - [Git](https://git-scm.com/downloads)
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [Node.js LTS 버전(v10.x 이상)](https://nodejs.org/ko/)
+- [Node.js LTS (v10.x above)](https://nodejs.org/ko/)
 - [Vue.js Dev Tools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-
+- [BootstrapVue](https://bootstrap-vue.org/)
 
 I used vue 2 and set up eslint and prettier.
 Also Made on a mobile screen basis.
