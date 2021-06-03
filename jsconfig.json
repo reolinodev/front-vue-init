@@ -1,5 +1,5 @@
 /**
-* ! 절대경로를 상대경로로 바꿔주는 설정
+* ! Setting the absolute path to a relative path
 */
 {
   "compilerOptions": {
